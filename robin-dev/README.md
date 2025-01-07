@@ -1,4 +1,4 @@
-# Robin - SwipeShare
+SwipeShare
 
 SwipeShare is an iOS application designed to connect college students with excess meal swipes to those in need. By fostering a sense of community and mutual support, SwipeShare helps combat food insecurity on campuses.
 
